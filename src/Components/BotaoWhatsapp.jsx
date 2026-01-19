@@ -4,7 +4,7 @@ import { FaWhatsapp } from "react-icons/fa";
 import { IconeWhatsapp } from "../Styles/styled";
 
 const BotaoWhatsapp = () => {
-  const numero = "5511986414262"; 
+  const numero = "5551992887395"; 
   const mensagem = "Olá! Vim pelo site e gostaria de saber mais informações.";
   const linkWhatsapp = `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
 
